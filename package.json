@@ -1,6 +1,6 @@
 {
   "name": "web-fns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pure JS utility functions for web apps: number/date/currency formatting, validate, storage/cookie, dom helpers. Zero dependencies, framework-agnostic (Vue2/Vue3/React).",
   "type": "module",
   "license": "MIT",
@@ -40,9 +40,15 @@
     "utils",
     "format",
     "validate",
+    "currency",
+    "money",
+    "float-precision",
+    "percentage",
+    "date",
     "cookie",
     "storage",
     "dom",
+    "echarts",
     "zero-dependency"
   ],
   "engines": {
